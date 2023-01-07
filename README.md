@@ -1,7 +1,7 @@
 ### Oi, eu sou o Emanuel! 🧘
 
-Apaixonado por programação, busco aprender e refinar meus conhecimentos a cada dia, atualmente estudante de desenvolvimento full-stack na DrivenEducation.<br/> 
-Aqui você pode encontrar projetos desenvolvidos por mim e outros em equipe realizados durante minha formaç
+Apaixonado por programação, busco aprender e refinar meus conhecimentos a cada dia, atualmente estudo desenvolvimento Web Full stack no bootcamp da DrivenEducation.<br/> 
+Aqui você pode encontrar projetos desenvolvidos por mim e em equipe.
 
 
 ![Emanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmanuelMarcolongo&show_icons=true&theme=dracula)
