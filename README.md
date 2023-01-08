@@ -45,6 +45,7 @@ Aqui você pode encontrar projetos desenvolvidos por mim e em equipe.
 ### Comunicação e trabalho em equipe:
 
 <div style="display: inline_block"><br>
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt:"Slack"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt:"Slack"/>
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt:"Discord"/>
 <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt:"Zoom"/>
