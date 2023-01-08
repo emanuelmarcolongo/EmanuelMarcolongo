@@ -1,6 +1,6 @@
 ### Oi, eu sou o Emanuel! 🧘
 
-Apaixonado por programação, busco aprender e refinar meus conhecimentos a cada dia, atualmente estudo desenvolvimento Web Full stack no bootcamp da DrivenEducation.<br/> 
+Apaixonado por programação, busco aprender e refinar meus conhecimentos a cada dia, atualmente estudo desenvolvimento web Full stack no bootcamp da DrivenEducation.<br/> 
 Aqui você pode encontrar projetos desenvolvidos por mim e em equipe.
 
 
