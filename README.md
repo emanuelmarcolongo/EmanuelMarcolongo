@@ -4,7 +4,7 @@ Apaixonado por programação, busco aprender e refinar meus conhecimentos a cada
 Aqui você pode encontrar projetos desenvolvidos por mim e em equipe.
 
 
-![Emanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmanuelMarcolongo&show_icons=true&theme=dracula)
+![Emanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuelmarcolongo&show_icons=true&theme=dracula)
 
 
 
