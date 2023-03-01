@@ -31,15 +31,6 @@ Aqui você pode encontrar projetos desenvolvidos por mim e em equipe.
 </div>
  
 
-### Deploy:
-<div style="display: inline_block"><br>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt:"Vercel"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt:"GitHub"/>
-  <br></br>
-<p >Mongo Atlas | Render | ElephantSQL</p>
-</div>
-
-
 
 ### Comunicação e trabalho em equipe:
 
