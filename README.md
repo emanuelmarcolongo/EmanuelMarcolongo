@@ -11,7 +11,8 @@ A seguir as tecnologias com as quais possuo experiência prática em projetos, s
 
 ## Tecnologias que uso no dia-a-dia:
 
-### Código: 
+
+### Front-end:
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt:"javascript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt:"reactJs"/>
@@ -22,6 +23,7 @@ A seguir as tecnologias com as quais possuo experiência prática em projetos, s
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt:"css"/>
 </div>
 
+### Back-end:
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt:"NestJs"/>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt:"nodeJs"/>
@@ -33,6 +35,7 @@ A seguir as tecnologias com as quais possuo experiência prática em projetos, s
 ### Banco de dados:
 <div style="display: inline_block"><br>
  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt:"postgres"/>
+   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt:"postgres"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt:"mongoDb"/>
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt:"Redis"/>
   
