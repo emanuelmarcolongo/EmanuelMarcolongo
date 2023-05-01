@@ -23,6 +23,7 @@ A seguir as tecnologias com as quais possuo experiência prática em projetos, s
 </div>
 
 <div style="display: inline_block"><br>
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt:"NestJs"/>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt:"nodeJs"/>
     <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt:"expressJs"/>
     <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt:"Jest"/>
@@ -34,6 +35,8 @@ A seguir as tecnologias com as quais possuo experiência prática em projetos, s
  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt:"postgres"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt:"mongoDb"/>
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt:"Redis"/>
+  
+ 
   
   
 </div>
