@@ -1,11 +1,12 @@
-### Oi, eu sou o Emanuel! 🧘
+### Olá mundo, eu sou o Emanuel! 🧘
 
-Apaixonado por programação, busco aprender e refinar meus conhecimentos a cada dia, atualmente estudo desenvolvimento web Full stack no bootcamp da DrivenEducation.<br/> 
+
+Desenvolvedor web full stack e apaixonado por programação, busco aprender e refinar meus conhecimentos a cada dia, nos ultimos 10 meses estive no bootcamp de desenvolvimento web Full stack da [Driven Education](https://www.driven.com.br/), onde pude desenvolver minhas habilidades técnicas na prática, em tecnologias como JavaScript, TypeScript (React, NextJs, Node, NestJs) e também em banco de dados noSQL como o MongoDB e SQL como o PostgreSQL.<br/> 
 Aqui você pode encontrar projetos desenvolvidos por mim e em equipe.
 
-A seguir as tecnologias com as quais possuo experiência prática em projetos, se quiser bater um papo, sinta-se à vontade para entrar em contato comigo no LinkedIn! .. (que está no final da lista) 😉
+A seguir as tecnologias com as quais possuo experiência prática em projetos, se quiser bater um papo, sinta-se à vontade para entrar em contato comigo 😉
 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuelmarcolongo/)
 
 
 
@@ -62,6 +63,7 @@ A seguir as tecnologias com as quais possuo experiência prática em projetos, s
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuelmarcolongo/)
 
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=emanuelmarcolongo&show_icons=true)
 <!--
 **EmanuelMarcolongo/EmanuelMarcolongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
