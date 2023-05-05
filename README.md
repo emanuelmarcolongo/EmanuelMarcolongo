@@ -6,9 +6,6 @@ Aqui você pode encontrar projetos desenvolvidos por mim e em equipe.
 
 A seguir as tecnologias com as quais possuo experiência prática em projetos, se quiser bater um papo, sinta-se à vontade para entrar em contato comigo 😉
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuelmarcolongo/)
-
-
 
 ## Tecnologias que uso no dia-a-dia:
 
