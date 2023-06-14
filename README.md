@@ -3,8 +3,6 @@
 
 Desenvolvedor web full stack e apaixonado por programação, busco aprender e refinar meus conhecimentos a cada dia, nos ultimos 10 meses estive no bootcamp de desenvolvimento web Full stack da [Driven Education](https://www.driven.com.br/), onde pude desenvolver minhas habilidades técnicas na prática, em tecnologias como JavaScript, TypeScript (React, Node, NestJs) e também em banco de dados noSQL como o MongoDB e SQL como o PostgreSQL.<br/> 
 
-- 💸 Atualmente estou desenvolvendo o [Spendify](https://github.com/emanuelmarcolongo/spendify), um projeto autoral com NextJs, com o objetivo de aprender o framework.
-
 
 A seguir as tecnologias com as quais possuo experiência prática em projetos, se quiser bater um papo, sinta-se à vontade para entrar em contato comigo 😉
 
