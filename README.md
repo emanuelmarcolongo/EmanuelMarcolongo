@@ -3,6 +3,18 @@
 
 Desenvolvedor web full stack e apaixonado por programação, busco aprender e refinar meus conhecimentos a cada dia, nos ultimos 10 meses estive no bootcamp de desenvolvimento web Full stack da [Driven Education](https://www.driven.com.br/), onde pude desenvolver minhas habilidades técnicas na prática, em tecnologias como JavaScript, TypeScript (React, Node, NestJs) e também em banco de dados noSQL como o MongoDB e SQL como o PostgreSQL.<br/> 
 
+### O que estou fazendo?
+
+... atualmente cursando [Santander Coders 2023](https://app.becas-santander.com/pt-BR/program/bolsas-santander-tecnologia-santander-coders-2023) | Ada Tech - Trilha de Front-end com Angular (07/23 - 11/23) </br>
+... && [Potência Tech](https://cubos.academy/lp/1000bolsasifood) iFood + [Cubos Academy](https://cubos.academy/) - Desenvolvimento de Software com foco em back-end (07/23 - 11/23) </br>
+... && começando o curso de [Ciência da Computação](https://aulas.descomplica.com.br/graduacao/ciencia-da-computacao/). na Descomplica (07/23 - 07/27) </br>
+
+
+
+
+
+<br/>
+
 
 A seguir as tecnologias com as quais possuo experiência prática em projetos, se quiser bater um papo, sinta-se à vontade para entrar em contato comigo 😉
 
