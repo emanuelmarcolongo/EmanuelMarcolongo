@@ -8,7 +8,7 @@ Desenvolvedor web full stack e apaixonado por programação, busco aprender e re
 ... atualmente cursando [Santander Coders 2023](https://app.becas-santander.com/pt-BR/program/bolsas-santander-tecnologia-santander-coders-2023) | Ada Tech - Trilha de Front-end com Angular (07/23 - 11/23) </br>
 ... && [Potência Tech](https://cubos.academy/lp/1000bolsasifood) iFood + [Cubos Academy](https://cubos.academy/) - Desenvolvimento de Software com foco em back-end (07/23 - 11/23) </br>
 ... && começando o curso de [Ciência da Computação](https://aulas.descomplica.com.br/graduacao/ciencia-da-computacao/). na Descomplica (07/23 - 07/27) </br>
-
+... && Buscando uma oportunidade no mercado através de uma vaga Jr ou estágio!
 
 
 
