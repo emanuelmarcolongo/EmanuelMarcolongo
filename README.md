@@ -1,7 +1,7 @@
 ### Olá mundo, eu sou o Emanuel! 🧘
 
 
-Desenvolvedor web full stack e apaixonado por programação. Desde que conheci essa área no começo de 2022, me senti muito motivado em escrever códigos, pensar e resolver problemas. Desde então busco aprender e refinar meus conhecimentos a cada dia!
+Desenvolvedor web full stack e apaixonado por programação. Desde que conheci essa área no começo de 2022, me senti muito motivado em pensar e resolver problemas através dos códigos. Desde então busco aprender e refinar meus conhecimentos a cada dia!
 
 
 
