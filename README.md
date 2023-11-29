@@ -25,6 +25,12 @@ A seguir as tecnologias com as quais possuo experiência prática em projetos, s
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt:"css"/>
 </div>
 
+### Mobile:
+<div style="display: inline_block"><br>
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt:"react native"/>
+  <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A3" alt:"Expo"/>
+</div>
+
 ### Back-end:
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt:"NestJs"/>
@@ -62,11 +68,5 @@ A seguir as tecnologias com as quais possuo experiência prática em projetos, s
 
 ### Contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuelmarcolongo/)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
