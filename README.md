@@ -54,9 +54,10 @@ A seguir as tecnologias com as quais possuo experiência prática em projetos, s
  
 
 
-### Comunicação e trabalho em equipe:
+### Outras Ferramentas:
 
 <div style="display: inline_block"><br>
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt:"Figma"/>
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt:"Slack"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt:"Slack"/>
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt:"Discord"/>
